@@ -1,1 +1,1 @@
-This is our secret
+This is our configuration files for the application.
